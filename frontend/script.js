@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/products";
+const API_URL = "https://codevector-product-browser-9s5w.onrender.com/products";
 
 let cursor = null;
 let category = "";

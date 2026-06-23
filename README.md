@@ -1,4 +1,4 @@
-# CodeVector Backend Take-Home Task
+# CodeVector Backend Task
 
 ## Overview
 
